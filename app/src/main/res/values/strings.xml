@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">worldclock</string>
+    <string name="sydney">Sydney</string>
+    <string name="world_clock">World Clock</string>
+</resources>
